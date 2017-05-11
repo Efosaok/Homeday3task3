@@ -1,0 +1,86 @@
+	<style>
+
+	body {
+    position:fixed;
+    height: 205;
+    width: 60%;
+	}
+	#navtop {
+		border-top: 0px;
+		font-style: verdana;
+		background-color: black;
+		height:40px;
+		width: auto;
+	}
+
+	#navlinks{
+		border-right: 20px
+	}
+
+	#link {
+         border-right: 20px;
+         color:gray;
+         font-family: verdana;
+         font-size: 12px;
+         padding: 20px;
+         text-decoration: none;
+	}
+
+	#search{
+		margin-left: 180px;
+		margin-right: 70px;
+		margin-bottom: 100px;
+		margin-top: 85px
+	}
+
+	#searchquery{
+		text: 100px;
+		height: 40px;
+		width: 450px
+	}
+	#searchbtn {
+    background-color: gray;
+    border: none;
+    color: white;
+    padding: 13px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+   }
+   #footer {
+   	border-top: 450px;
+   	border-left: 620px;
+   	background-color:black ;
+   	height: 40px;
+   	width: auto;
+
+   }
+
+  #alink{
+  	margin-left:575px;
+    color: black;
+    font-family: verdana;
+    font-size: 12px;
+    padding: 5px;
+    text-decoration: none;
+  }
+   #afooter {
+    background-color: black;
+  	margin-top: 388px;
+  	margin-left:;
+    width:100%;
+  	
+  }
+  	#flink {
+         border-top: 30;
+         color:gray;
+         font-family: verdana;
+         font-size: 12px;
+         padding: 10px;
+         text-decoration: none;
+
+     }
+
+ </style>
